@@ -21,7 +21,7 @@ Poseo certificaciones en:
 - Desarrollo web con **Angular** 🅰️
 - Creación de APIs con **.NET** ⚙️
 
-Mis favoritas son **React** ⚛️, **TensorFlow** 🧩 y **n8n** 🤖
+Mis favoritas son **React** ⚛️, **TensorFlow** 🧩 y **n8n** 🤖. 
 Además de las certificaciones, tengo amplios conocimientos en PHP, Laravel, Javascript, HTML, CSS, TailwindCSS, Bootstrap, entornos AMP como MAMP o XAMPP, y sistemas gestores de bases de datos como OracleSQL, PostgreSQL o MySQL.
 
 ---
